@@ -1,0 +1,2 @@
+#!/bin/bash
+qrep -v "bin" /etc/passwd
